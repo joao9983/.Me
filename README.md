@@ -18,4 +18,4 @@
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=joao9983&theme=dark&show_icons=true)](https://github.com/joao9983/) <br/> [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9983&hide=html&layout=compact&theme=dark)](https://github.com/joao9983/)
+[![card](https://github-readme-stats.vercel.app/api?username=joao9983&theme=dark&show_icons=true)](https://github.com/joao9983/) <br/>
