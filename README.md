@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey There! 👋
 
-<!--
-**joao9983/joao9983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is João Carlos 😄
 
-Here are some ideas to get you started:
+- 🔭 I'm am a student from I.T field!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- ⚡ I'm currently learning on Udemy -> HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, etc.
+- ⚡ Studying at IFCE, where i study Computer Engineering (star -> 2020.1)
+
+
+- 📫 How to reach me: 
+- Linkedin: https://www.linkedin.com/in/jo%C3%A3o-carlos-47369b1ba/
+- Email: joaocarlosnepomucenof@gmail.com / joao.carlos.nepomuceno06@aluno.ifce.edu.br
+
+- 🔎 Welcome to my Github repository!
+- 🔎 Take a look on my academic works! 
