@@ -16,7 +16,7 @@
 
 - 🔎 Welcome to my Github repository!
 - 🔎 Take a look on my academic works! 
-<br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao9983&show_icons=true&theme=radical)
 <br/>
 <br/>
