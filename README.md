@@ -20,7 +20,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao9983&show_icons=true&theme=radical)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9983&layout=compact&border_color(hex color)](https://github.com/joao9983/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9983&layout=compact&border_color(hex color))](https://github.com/joao9983/github-readme-stats)
 
 
 
