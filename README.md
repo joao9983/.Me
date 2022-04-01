@@ -7,7 +7,7 @@
 
  
 - ⚡ I'm currently learning on Udemy -> HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, etc.
-- ⚡ Studying at IFCE, where i study Computer Engineering (star -> 2020.1)
+- ⚡ Studying at IFCE, where i study Computer Engineering (start -> 2020.1)
 
 
 - 📫 How to reach me: 
