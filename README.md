@@ -6,7 +6,7 @@
 - 🔭 I'm am a student from I.T field!
 
  
-- ⚡ I'm currently learning on Udemy -> HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, etc.
+- ⚡ I'm currently learning on LAPICO -> ReactJs
 - ⚡ Studying at IFCE, where i study Computer Engineering (start -> 2020.1)
 
 
