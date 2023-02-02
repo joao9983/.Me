@@ -1,4 +1,3 @@
-
 ## Hey There! 👋
 
 ### My name is João Carlos 😄
@@ -17,10 +16,12 @@
 - 🔎 Welcome to my Github repository!
 - 🔎 Take a look on my academic works! 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao9983&show_icons=true&theme=radical)
-<br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9983&layout=compact)](https://github.com/joao9983/github-readme-stats)
+</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao9983&show_icons=true&theme=radical) 
+
+
+
 
 
 
