@@ -14,7 +14,7 @@
 - Email: joaocarlosnepomucenof@gmail.com / joao.carlos.nepomuceno06@aluno.ifce.edu.br
 
 - 🔎 Welcome to my Github repository!
-- 🔎 Take a look on my academic works! 
+- 🔎 Take a look! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9983&layout=compact)](https://github.com/joao9983/github-readme-stats)
 </br>
