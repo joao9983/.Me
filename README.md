@@ -5,7 +5,7 @@
 - 🔭 I'm am a student from I.T field!
 
  
-- ⚡ I'm currently learning on LAPICO -> ReactJs and Flutter Dart
+- ⚡ I'm currently learning on LASPICO -> ReactJs, Flutter Dart, Python Development
 - ⚡ Studying at IFCE, where i study Computer Engineering (start -> 2020.1)
 
 
